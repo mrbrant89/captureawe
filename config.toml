@@ -85,23 +85,23 @@ pygmentsCodeFences = true
 [menu]
     # Navbar Menus
     [[menu.nav]]
-        name    = "about"
+        name    = "About"
         url     = "about"
         weight  = 2
     [[menu.nav]]
-        name    = "service"
+        name    = "Service"
         url     = "service"
         weight  = 3
     [[menu.nav]]
-        name    = "portfolio"
+        name    = "Portfolio"
         url     = "portfolio"
         weight  = 4
     [[menu.nav]]
-        name    = "blog"
+        name    = "Blog"
         url     = "blog"
         weight  = 5
     [[menu.nav]]
-        name    = "contact"
+        name    = "Contact"
         url     = "contact"
         weight  = 6
 
